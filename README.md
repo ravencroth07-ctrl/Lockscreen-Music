@@ -1,6 +1,6 @@
 # LockMusic
 
-An iOS-27-style Now Playing lock screen for Android (built for a Realme 14 Pro, Android 15).
+An iOS-27-style Now Playing lock screen for Android (tested on Realme 14 Pro, Android 16).
 
 - Live wallpaper: album artwork full bleed, slow zoom and drift, dim slider, idle photo when nothing plays.
 - Lock-screen player: frosted panel with title, artist, scrubber, previous / play-pause / next, favourite star, volume, flashlight and camera buttons, compact clock. Swipe left on the panel for Clear (music keeps playing; the player returns on a new track or when playback resumes). Swipe up to unlock.
